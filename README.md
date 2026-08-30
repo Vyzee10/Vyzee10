@@ -1,4 +1,4 @@
-<img width="736" height="300" alt="download" src="https://github.com/user-attachments/assets/7cc6eda7-e5dd-4ef3-a324-f3290fa1394c" />
+<img width="736" height="414" alt="917544dd0d94797c9b348ed465ec1fac" src="https://github.com/user-attachments/assets/7874794e-006f-4ee0-8f8c-4e34152369f9" />
 
 ### Estudante de programação •
 
