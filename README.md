@@ -12,3 +12,5 @@
 │  FOCO: Python, HTML e CSS                │
 │  OBJETIVO: me tornar desenvolvedor       │
 └─────────────────────────────────────────┘
+```
+<img align="right" width="190" src="LINK_DA_IMAGEM">
