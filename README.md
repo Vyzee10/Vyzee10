@@ -1,12 +1,8 @@
-<img width="736" height="414" alt="b84315ee936a3a1cdc70c3761b2501f9" src="https://github.com/user-attachments/assets/81fd65fe-6045-43f1-84cd-ef067c154a2d" />
-
-
+<img width="736" height="414" alt="download" src="https://github.com/user-attachments/assets/0641aca4-5f2a-47cf-a9c5-d267d1797fc0" />
 ### Estudante de programação •
-
 [![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38bdf8)](https://www.python.org/)                                                         
 [![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=38bdf8)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=38bdf8)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
 ```txt
 ┌─────────────────────────────────────────┐
 │  STATUS: aprendendo                      │
