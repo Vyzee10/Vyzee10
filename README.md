@@ -13,4 +13,4 @@
 │  OBJETIVO: me tornar desenvolvedor       │
 └─────────────────────────────────────────┘
 ```
-<img align="right" width="190" src="LINK_DA_IMAGEM">
+<img align="right" width="190" src=https://i.pinimg.com/736x/bc/bf/8b/bcbf8b606bca77e0f97b61c034258cc4.jpg>
